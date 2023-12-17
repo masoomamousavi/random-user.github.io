@@ -3,7 +3,7 @@ let json = `[
     "id": 1,
     "name": "Leanne Graham",
     "username": "Bret",
-    "img": "../image/leane-gharam.png" ,
+    "img": "image/leane-gharam.png" ,
     "email": "Sincere@april.biz",
     "age":"23",
     "address": {
@@ -30,7 +30,7 @@ let json = `[
     "name": "Ervin Howell",
     "username": "Antonette",
     "email": "Shanna@melissa.tv",
-    "img":"../image/evrin.png" ,
+    "img":"image/evrin.png" ,
     "age":"33",
     "address": {
       "street": "Victor Plains",
@@ -56,7 +56,7 @@ let json = `[
     "name": "Clementine Bauch",
     "username": "Samantha",
     "email": "Nathan@yesenia.net",
-    "img": "../image/clementine.png",
+    "img": "image/clementine.png",
     "age":"21",
     "address": {
       "street": "Douglas Extension",
@@ -82,7 +82,7 @@ let json = `[
     "name": "Mr.Arnold Frankin",
     "username": "Karianne",
     "email": "Julianne.OConner@kory.org",
-    "img":"../image/arnold.jpg",
+    "img":"image/arnold.jpg",
     "age":"73",
     "address": {
       "street": "Hoeger Mall",
@@ -108,7 +108,7 @@ let json = `[
     "name": "Chelsey Dietrich",
     "username": "Kamren",
     "email": "Lucio_Hettinger@annie.ca",
-    "img":"../image/chelsey.png",
+    "img":"image/chelsey.png",
     "age":"31",
     "address": {
       "street": "Skiles Walks",
@@ -134,7 +134,7 @@ let json = `[
     "name": "Mrs. Dennis Schulist",
     "username": "Leopoldo_Corkery",
     "email": "Karley_Dach@jasper.info",
-    "img":"../image/danist.png",
+    "img":"image/danist.png",
     "age":"20",
     "address": {
       "street": "Norberto Crossing",
@@ -160,7 +160,7 @@ let json = `[
     "name": "Kurtis Weissnat",
     "username": "Elwyn.Skiles",
     "email": "Telly.Hoeger@billy.biz",
-    "img":"../image/kortis.jpg",
+    "img":"image/kortis.jpg",
     "age":"18",
     "address": {
       "street": "Rex Trail",
@@ -186,7 +186,7 @@ let json = `[
     "name": "Nicholas Runolfsdottir V",
     "username": "Maxime_Nienow",
     "email": "Sherwood@rosamond.me",
-    "img":"../image/nicholas.jpg",
+    "img":"image/nicholas.jpg",
     "age":"25",
     "address": {
       "street": "Ellsworth Summit",
@@ -212,7 +212,7 @@ let json = `[
     "name": "Glenna Reichert",
     "username": "Delphine",
     "email": "Chaim_McDermott@dana.io",
-    "img":"../image/glena.png",
+    "img":"image/glena.png",
     "age":"21",
     "address": {
       "street": "Dayna Park",
@@ -238,7 +238,7 @@ let json = `[
     "name": "Dawood Hassan",
     "username": "Moriah.Stanton",
     "email": "Rey.Padberg@karina.biz",
-    "img":"../image/dawood.png",
+    "img":"image/dawood.png",
     "age":"40",
     "address": {
       "street": "Kattie Turnpike",
