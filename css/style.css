@@ -149,6 +149,10 @@ button.btn:hover {
     height: 20%;
   }
 
+  div.container-fluid {
+    height: 50%;
+  }
+
   img.photo {
     height: 150px;
     width: 150px;
