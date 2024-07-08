@@ -5,4 +5,4 @@ It's a cool box with info about different people. You can click on the person ic
 🔀 Plus, I've added a cool "Random User" button! 🎲 Click it, and you get a randomly selected user along with their unique set of attributes.
 I'm so glad if you share your feedback🙏
 
-Live site link: 
+Live demo: https://masoomamousavi.github.io/user-info.github.io/
